@@ -5,6 +5,8 @@
 - Camila Sara
 - Thiago Schweder Souza
 
+## Estrutura
+
 Esse repositório contém os arquivos necessários para completar o build dos dois protótipos escolhidos.
 Os protótipos escolhidos foram o catálogo de viagens e o cardápio de restaurante japonês (1 e 4, respectivamente).
 
